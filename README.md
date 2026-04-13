@@ -1,6 +1,6 @@
 # 🧩 Chrome Extention to increase reading area in gemini UI
 
-## Problem:
+## ⚠️ Problem:
 
 *Working with AI requires sufficient space to read and connect ideas, but a restrictive UI makes it difficult to understand the full context.*
 
