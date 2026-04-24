@@ -1,5 +1,21 @@
 # 🧩 Chrome Extention to increase reading area in gemini UI
 
+## 📑 Table of Contents
+
+- **[Overview](#-overview)**
+- **[Problem](#️-problem)**
+- **[Solution](#--solution)**
+- **[Result](#-result)**
+- **[Author](#-author)**
+
+## 📌 Overview:
+
+This project started as a small frustration and turned into a practical solution.
+
+While working with AI tools, I noticed how much **UI design affects focus and understanding**. Limited reading space, unnecessary elements, and visual clutter were making it harder to follow long responses and connect ideas.
+
+Instead of working around it, I **analyzed the interface using DevTools and built a lightweight Chrome extension** to remove unnecessary elements and improve usability.
+
 ## ⚠️ Problem:
 
 *Working with AI requires sufficient space to read and connect ideas, but a restrictive UI makes it difficult to understand the full context.*
@@ -62,4 +78,11 @@ It was frustrating enough that I decided to fix it myself.
 
 ### 👉 As engineers, we don’t have to accept inefficiencies — we can improve the tools we use every day.
 
+## 👨‍💻 Author
+
+**`Hi, I’m Sonu — a DevOps Engineer`** focused on building practical, real-world solutions.
+
+I enjoy **working with Linux, automation, and cloud-native tools**, and I like solving problems by understanding systems deeply and improving them with simple, effective solutions.
+
 ![alt text](./screenshots/we-are-devops.png)
+
